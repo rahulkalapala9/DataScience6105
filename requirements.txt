@@ -1,0 +1,16 @@
+python-dotenv
+streamlit
+audio_recorder_streamlit
+SpeechRecognition
+pydub
+huggingface_hub
+langchain
+torch
+InstructorEmbedding
+sentence_transformers
+transformers
+faiss-cpu
+yt_dlp
+sponsorblock
+openai
+tiktoken
